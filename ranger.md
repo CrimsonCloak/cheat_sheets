@@ -10,3 +10,4 @@ Key binding | Function
 `Q` | Exit Ranger
 `:` | Execute command (Ranger)
 `!` | Execute shell command
+`S` | Open terminal in directory (`exit` to return to ranger)
